@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Model artifacts
+models/
+*.pth
+
+# Temporary files
+temp_frame.jpg
+
+# OS
+.DS_Store
+Thumbs.db
